@@ -17,7 +17,7 @@ const app = express()
 
 const allowedOrigins = [
   'https://bookmy-show-9wtr.vercel.app',
-  'http://localhost:5173',
+  'http://localhost:5174',
   ];
   
   // app.use(cors({
